@@ -3,7 +3,7 @@
 📍 Location: Mangin, Dagupan City, Pangasinan
 📧 Email: soteloargel@gmail.com
 📞 Phone: +639761755512
-🌐 Portfolio: [https:](https://github.com/argelsotelo11/portfolio_2025.git)
+🌐 Portfolio: (https://github.com/argelsotelo11/portfolio_2025.git)
 
 ---
 
