@@ -3,12 +3,12 @@
 📍 Location: Mangin, Dagupan City, Pangasinan
 📧 Email: soteloargel@gmail.com
 📞 Phone: +639761755512
-🌐 Portfolio: https://yourusername.github.io
+🌐 Portfolio: [https:](https://github.com/argelsotelo11/portfolio_2025.git)
 
 ---
 
 ## 📋 About Me
-Experienced and detail-oriented **Secretary and School Registrar** with a strong background in administrative support, student records management, and school operations. Over [X years] of experience in ensuring smooth and efficient office procedures, maintaining data accuracy, and supporting student success in academic institutions.
+Experienced and detail-oriented **Secretary and School Registrar** with a strong background in administrative support, student records management, and school operations. Over 2 years of experience in ensuring smooth and efficient office procedures, maintaining data accuracy, and supporting student success in academic institutions.
 
 ---
 
@@ -40,4 +40,4 @@ Experienced and detail-oriented **Secretary and School Registrar** with a strong
 ---
 
 ## 📄 Resume
-[Download My Resume (PDF)](Sotelo, Argel V.pdf)
+[Download My Resume (PDF)](ArgelSotelo_RESUME.pdf)
